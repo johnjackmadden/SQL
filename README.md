@@ -1,4 +1,4 @@
-#Overview of the analysis
+# Overview of the analysis
 ##The purpose of this analysis is to use PgAdmin to import various data sets, process them, and then to export them as csv to create discrete lists on who in the company is on the way of aging out and who would be a potential member to train up to replace them at some point in the future.
 #Results
 ## * There seems to be good retention for many people in the company, with many people holding many titles within the company. This is attractive to future candidates as a stable workplace, and by proxy of being around long term things like pay and benefits may be an advantage at the company
